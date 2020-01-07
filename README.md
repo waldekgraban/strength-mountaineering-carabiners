@@ -14,6 +14,7 @@ Keep in mind that there are many types of carabiners and each one is used in a s
 Each carabiner has several basic parameters. E.g. Type Basic (B) to be used anywhere in the safety chain (20 kN long axis strength, 7 kN transverse strength, 7 kN open carabiner long axis strength, 15 mm ground clearance). to be used anywhere in the safety chain (20 kN long axis strength, 7 kN transverse strength, 7 kN open carabiner long axis strength, 15 mm ground clearance).
 
 ![enter image description here](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/CarabinerTerminology.jpeg/320px-CarabinerTerminology.jpeg)
+
 If you want to check what load your snap hook can withstand, just give:
 
     $carabiner_type = "B";   // (string) supported types: B, D, H, X, K, Q
