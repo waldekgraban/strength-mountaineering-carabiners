@@ -1,8 +1,11 @@
+
 # Strength of mountaineering carabiners
 
 Check the strength of different types of climbing carabiners
 
 ![enter image description here](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Carabiner.jpg/320px-Carabiner.jpg)
+
+
 Various types of snap hooks are used in speleology and climbing on a daily basis.
 Climbing carabiners are supported allowing safe movement in rocks.
 
